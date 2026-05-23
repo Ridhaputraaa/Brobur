@@ -3,7 +3,8 @@ import streamlit as st
 st.set_page_config(
     page_title="Brobur",
     page_icon="🧊",
-    layout="wide")
+    layout="wide"
+)
 # Hirarki teks
 st.title("📊 Dashboard")
 st.header("Laporan Bulanan")
