@@ -3,7 +3,8 @@ import streamlit as st
 st.set_page_config(
     page_title="Brobur",
     page_icon="🧊",
-    layout="centered"
+    layout="centered",
+    initial_sidebar_state="expanded"
 )
 # Hirarki teks
 st.title("📊 Dashboard")
